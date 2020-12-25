@@ -1,0 +1,3 @@
+aa aa wc hadoop
+hadoop wc word
+count spark spark spring

@@ -1,0 +1,6 @@
+# Project exclude paths
+/sparkCore/target/
+/sparkSQL/target/
+/sparkSteaming-kafka010/target/
+/sparkStreaming/target/
+/sparkStreaming-realtime/target/
